@@ -1,0 +1,12 @@
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\BotBlip.Api.exe
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\BotBlip.Api.dll
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\BotBlip.Api.deps.json
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\BotBlip.Api.runtimeconfig.json
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\BotBlip.Api.pdb
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\eliza\source\repos\BotBlip\BotBlip.Api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

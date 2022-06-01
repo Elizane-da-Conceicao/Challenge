@@ -27,20 +27,25 @@ namespace BotBlip.Api.Services
 
         public List<Repos> GetFiveOldestRepositories(List<Repos> repositories) 
         {
+
             List<Repos> old = new List<Repos>();
             DateTime data_old = new DateTime();
+
             for (int i = 0; i < 5; i++)
             {
                 int id = 0;
 
                 foreach (var item in repositories)
                 {
-                    int compare = DateTime.Compare(item.Created_at, data_old);
-                    if(compare < 0 || id == 0)
+                    if (item.Language != null && item.Language.Equals("C#"))
                     {
-                        data_old = item.Created_at;
-                        id = item.Id;
-                    } 
+                        int compare = DateTime.Compare(item.Created_at, data_old);
+                        if(compare < 0 || id == 0)
+                        {
+                            data_old = item.Created_at;
+                            id = item.Id;
+                        } 
+                    }
                 }
                 old.Add(repositories.Find(d => d.Id == id));
                 repositories.Remove(repositories.Find(d => d.Id == id));
